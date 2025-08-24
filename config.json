@@ -1,0 +1,12 @@
+{
+    "token": "YourBotTokenHere",
+    "prefix": "s?",
+    "nodes": [
+        {
+            "name": "Local Lavalink",
+            "url": "localhost:8090",
+            "auth": "youshallnotpass",
+            "secure": false
+        }
+    ]
+}
