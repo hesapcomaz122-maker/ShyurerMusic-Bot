@@ -1,5 +1,5 @@
 {
-    "token": "YourBotTokenHere",
+    "token": "MTQ2MjQ2NDI1MjkwMzQyNDE4NA.GqxiEH.eFVJyHzpgPyweRNPerSBeIdDcnQmE6oE3wYC5o",
     "prefix": "s?",
     "nodes": [
         {
@@ -9,4 +9,5 @@
             "secure": false
         }
     ]
+
 }
