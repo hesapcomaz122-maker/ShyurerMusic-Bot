@@ -209,5 +209,6 @@ Shyurer.on('interactionCreate', async (interaction) => {
     await handleMusicButtonInteractions(Shyurer, interaction);
 });
 
-Shyurer.login(Shyurer.config.token);
+Shyurer.login("MTQ2MjQ2NDI1MjkwMzQyNDE4NA.GqxiEH.eFVJyHzpgPyweRNPerSBeIdDcnQmE6oE3wYC5o");
+
 
